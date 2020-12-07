@@ -1,0 +1,14 @@
+[Section 2]
+Offset O = 50
+UV start = 350
+UV end = 600
+Shuttle = 0
+Total Loop = 3
+vOA = 80
+v_AB = 60
+delay O = 2
+delay A = 3
+delay B = 3
+vBA = 60
+Back Rotate = 350
+vRotate = 350.000000

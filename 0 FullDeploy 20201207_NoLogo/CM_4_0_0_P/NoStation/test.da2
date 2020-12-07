@@ -1,0 +1,14 @@
+[Section 2]
+delay O=2
+vOA=80
+Offset O=150
+UV start=430
+v_AB=60
+UV end=790
+vBA=60
+delay B=3
+delay A=3
+Back Rotate=0
+Total Loop=1
+Shuttle=0
+vRotate=0.000000
