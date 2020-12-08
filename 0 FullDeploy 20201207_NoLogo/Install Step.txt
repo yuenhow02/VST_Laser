@@ -1,0 +1,25 @@
+1. confirm the tester hardware
+	CM_4_0_0_P		= CoolMaster motor
+	Yamaha_4_2_5_P	= Yamaha motor, tower light (2 tone)
+	Yamaha_4_4_1_P	= Yamaha motor, tower light (1 tone), tone software control
+	Yamaha_5_0_0_P	= Yamaha motor, updown
+	P = lastest version, no logo
+
+2. Install station setting
+	a. Single Station
+		i. 	NoStation\0Run.bat run as admin
+	b. Dual Staiton
+		i. 	Station_2\0Run.bat run as admin
+
+3. upgrade the exe
+	a. RecopyEXE\0Run.bat run as admin
+
+4. Copy the license
+	a. Single Station
+		i. 	copy license into %ProgramFiles%\UV Rotate
+	b. Dual Station
+		i. 	copy license into %ProgramFiles%\UV Rotate\Station1
+		ii.	copy license into %ProgramFiles%\UV Rotate\Station2
+		
+%ProgramFiles% 	= C:\Program Files
+				= C:\Program Files (x86)
